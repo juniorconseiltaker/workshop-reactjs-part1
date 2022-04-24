@@ -1,0 +1,37 @@
+# `05` Adding styles to the components
+
+The most recommended way to do styles on React is using CSS-in-JS.
+
+Basically you create an object with your styles like this:
+
+```jsx
+const mySuperStyles = {
+    color: "blue",
+    fontSize: "14px",
+    border: "1px solid black"
+};
+```
+
+And then you can apply those styles to your HTML like this:
+
+```jsx
+    <div style={mySuperStyles}>I am an alert</div>
+```
+
+##  📝 Instructions:
+
+The current exercise has an object with styles applied already, please update the the styles to meet the following:
+
+1. Font size has to be `16px`
+
+2. Background color has to be `black`.
+
+3. A yellow border with `1px`.
+
+---
+
+<div align="center">
+
+<a href="https://github.com/juniorconseiltaker" target="_blank"><img src="../../.assets/taker-icon.png" width="50"></a>
+
+</div>
