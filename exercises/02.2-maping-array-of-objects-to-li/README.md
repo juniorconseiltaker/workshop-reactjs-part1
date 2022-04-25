@@ -39,7 +39,7 @@ const planets = [ 'Mars', 'Venus', 'Jupiter', 'Earth', 'Saturn', 'Neptune' ];
 
 ## Expected result:
 
-![list-group](../../.assets/exercises/02.2-1.png?raw=true)
+![list-group](../../.learn/assets/02.2-1.png?raw=true)
 
 ---
 

@@ -28,7 +28,7 @@ const animalsInHTML = [
 
 ## Expected result:
 
-Your website should look like this: ![Li's](../../.assets/exercises/02.1-1.png?raw=true)
+Your website should look like this: ![Li's](../../.learn/assets/02.1-1.png?raw=true)
 
 ---
 

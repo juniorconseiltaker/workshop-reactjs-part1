@@ -41,7 +41,7 @@ Source: [Bootstrap Card](https://getbootstrap.com/docs/4.0/components/card/#exam
 
 ## Expected result:
 
-![Bob Dylan Card](../../.assets/exercises/1.4-1.png?raw=true)
+![Bob Dylan Card](../../.learn/assets/1.4-1.png?raw=true)
 
 ---
 

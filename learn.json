@@ -28,7 +28,7 @@
   },
   "difficulty": "beginner",
   "duration": 2,
-  "description": "",
-  "title": "Workshop Taker Initiation ReactJS",
-  "slug": "workshop-taker-initiation-reactjs"
+  "description": "Little workshop for Taker to introduce ReactJs - Part 1",
+  "title": "workshop-reactjs-part1",
+  "slug": "workshop-reactjs-part1"
 }

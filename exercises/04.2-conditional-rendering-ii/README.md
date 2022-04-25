@@ -10,7 +10,7 @@ Right now this `<Alert>` component can render in **orange** or **red** depending
 
 Your website must end up looking similar to this:
 
-![3 Color Alert](../../.assets/exercises/04.2-1.png?raw=true)
+![3 Color Alert](../../.learn/assets/04.2-1.png?raw=true)
 
 ---
 

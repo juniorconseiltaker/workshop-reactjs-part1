@@ -27,7 +27,7 @@ Your HTML's component should be something like this:
 
 ## Expected result:
 
-![Jumbotron](../../.assets/exercises/03.4-1.png?raw=true)
+![Jumbotron](../../.learn/assets/03.4-1.png?raw=true)
 
 ---
 

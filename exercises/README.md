@@ -19,6 +19,9 @@ Then start the application
 learnpack start
 ```
 
+When you build your code, if a site don't show up you can enter yhis link in your web browser:
+http://localhost:3000/preview/
+
 ---
 
 <div align="center">

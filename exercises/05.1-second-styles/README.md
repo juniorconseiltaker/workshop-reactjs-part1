@@ -4,7 +4,7 @@
 
 1. Now, lets change Badge component styles to make it look like this:
 
-![Alert in bootstrap](../../.assets/exercises/05.1-1.png?raw=true)
+![Alert in bootstrap](../../.learn/assets/05.1-1.png?raw=true)
 
 ---
 
