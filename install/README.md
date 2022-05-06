@@ -31,6 +31,8 @@ Make sure you have the [learnpack-cli](https://github.com/learnpack/learnpack-cl
 sudo npm i learnpack -g
 ```
 
+## Installation is done! :relaxed:
+
 Download the react exercises by cloning the project or downloading the zip from github.
 
 [link of the repository here](#)
@@ -41,8 +43,6 @@ $ npm i jest@24.8.0 -g
 $ learnpack plugins:install learnpack-react
 $ learnpack start
 ```
-
-## Installation is done! :relaxed:
 
 ---
 
