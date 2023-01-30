@@ -35,7 +35,7 @@ sudo npm i learnpack -g
 
 Download the react exercises by cloning the project or downloading the zip from github.
 
-[link of the repository here](#)
+[link of the exercicies](https://github.com/juniorconseiltaker/workshop-reactjs-part1/blob/master/exercises/README.md#exercises)
 
 Start the tutorial/exercises by running the following command from the root of the project:
 ```shell
